@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Wac%C5%82aw_Maciejowski
     - http://pl.wikipedia.org/wiki/Wac%C5%82aw_Aleksander_Maciejowski
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36526#Legendy-i-pie-ni-ludu-polskiego-nowo-odkryte
 gutenberg_issued: '2011-06-26'
 gutenberg_type: Text
 identifiers:
