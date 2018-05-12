@@ -1,0 +1,32 @@
+_repo: Legendy-i-pie-ni-ludu-polskiego-nowo-odkryte_36526
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maciejowski, Wacław Aleksander
+    aliases:
+    - Maciejowski, Waclaw Aleksander
+    - Macieiowski, Wenceslaus Alexander
+    birthdate: 1793
+    deathdate: 1883
+    gutenberg_agent_id: '38323'
+    url: http://www.gutenberg.org/2009/agents/38323
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Wac%C5%82aw_Maciejowski
+    - http://pl.wikipedia.org/wiki/Wac%C5%82aw_Aleksander_Maciejowski
+description: ''
+gutenberg_issued: '2011-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36526'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Polish poetry'
+title: Legendy i pieśni ludu polskiego nowo odkryte
+url: http://www.gutenberg.org/ebooks/36526
